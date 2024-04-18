@@ -1,0 +1,10 @@
+ A__A                                A__A
+| 'w'|	    === HOME SELECT ===     |'w' |
+|>  >|	     <1> Show Menu          |<  <|
+|    |	     <2> Add Drinks         |    |
+|    |	     <3> Delete Drinks      |    |
+|    |	     <4> Confrim Order      |    |
+|    |	     <5> Information        |    |
+| __ |	     <6> Exit               | __ |
+ U  U                                U  U
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -
